@@ -1,5 +1,7 @@
 # Tower of Babel — Catalog
 
+[![mcptry](https://mcptry.com/badge/io.github.Joshuv-AI/tower-of-babel)](https://mcptry.com/servers/io.github.Joshuv-AI/tower-of-babel)
+
 The **Tower of Babel** is a free digital library operated by [Antarctic Labs](https://antarctic-labs.com).
 It holds **2,557,923 public-domain and rights-clear texts**, every one with full text and metadata.
 No accounts, no paywalls.
